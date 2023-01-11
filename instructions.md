@@ -6,12 +6,18 @@
   The run examples may be entered in a *shell* window or a *console* window. The outputs are the required and expected results.
 
   - ./main
+    
     usage: main name
   - ./main Irving
+    
     hello, Irving. Happy New Year!
+    
   - ./main Irving Berlin
+
     hello, Irving. hello Berlin. Happy New Year!
+
   - ./main "Jean Paul Sartre"
+  
     hello, Jean Paul Sartre. Happy New Year!
 
   ## Steps

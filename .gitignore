@@ -1,3 +1,10 @@
+#
+# derived from github.com C .gitignore
+#
+# additions
+main
+main-debug
+
 # Prerequisites
 *.d
 
